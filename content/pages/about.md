@@ -1,0 +1,3 @@
+Title: About
+
+ARCON provides specialized support in modern technology to the FAA, DoD, and other government agencies, as well as to business. ARCON has the resources to undertake projects ranging from a small, intricate subsystem of a project to the design of a complete system. Areas of expertise include: Tracking Analysis and Registration, Air Traffic Control Automation and Software Implementation, Traffic Flow Management, Digital Speech Processing, Electromagnetics and Radar Technology, Statistical Signal Processing, Modeling, Simulation, and Data Analysis. Applications involve Processing Data in Real-Time.
